@@ -1,2 +1,0 @@
-# Game Ideation
-1. 
