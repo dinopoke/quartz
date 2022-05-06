@@ -1,0 +1,1 @@
+Welcome to dinopoke's Obsidian vault!
