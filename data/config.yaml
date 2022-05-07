@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: dinopoke
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -6,12 +6,11 @@ enableLatex: true
 enableSPA: true
 enableContextualBacklinks: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Welcome to where I keep all my thoughts!
 page_title:
-  "🪴 Quartz 3.2"
+  "🏰 dino's pokey palace 🏰"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/dinopokey
+  - link_name: Linktree
+    link: https://linktr.ee/dinopoke
